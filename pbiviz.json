@@ -1,0 +1,25 @@
+{
+  "visual": {
+    "name": "circlecard",
+    "displayName": "circlecard",
+    "guid": "circlecard4AD8D1E1DA0943AEB18E1E59B92001A9",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "2.6.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [
+  ],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "stringResources": []
+}
