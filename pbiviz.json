@@ -2,7 +2,7 @@
   "visual": {
     "name": "circlecard",
     "displayName": "circlecard",
-    "guid": "circlecard4AD8D1E1DA0943AEB18E1E59B92001A91",
+    "guid": "circlecard4AD8D1E1DA0943AEB18E1E59B92001A9",
     "visualClassName": "Visual",
     "version": "1.0.0.0",
     "description": "test",
@@ -11,7 +11,7 @@
   },
   "apiVersion": "4.7.0",
   "author": {
-    "name": "TEST",
+    "name": "test",
     "email": "test@microsoft.com"
   },
   "assets": {
