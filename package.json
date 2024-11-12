@@ -2,12 +2,13 @@
   "name": "visual",
   "dependencies": {
     "core-js": "3.2.1",
-    "d3": "5.11.0",
+    "d3": "^7.9.0",
+    "eslint-plugin-powerbi-visuals": "^1.0.0",
     "powerbi-visuals-utils-dataviewutils": "2.2.1"
   },
   "devDependencies": {
     "@types/d3": "5.7.2",
-    "less": "3.10.3",
+    "less": "^3.13.1",
     "less-loader": "5.0.0",
     "powerbi-visuals-api": "~4.7.0",
     "style-loader": "0.23.1",
@@ -22,6 +23,7 @@
     "package": "pbiviz package",
     "lint": "tslint -c tslint.json -p tsconfig.json",
     "test": "pbiviz package --resources --no-minify --no-pbiviz",
-    "cert": "pbiviz --install-cert"
+    "cert": "pbiviz --install-cert",
+    "eslint": "npx eslint ."
   }
 }
