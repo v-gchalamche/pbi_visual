@@ -2,17 +2,17 @@
   "visual": {
     "name": "circlecard",
     "displayName": "circlecard",
-    "guid": "circlecard4AD8D1E1DA0943AEB18E1E59B92001A9",
+    "guid": "circlecard4AD8D1E1DA0943AEB18E1E59B92001A91",
     "visualClassName": "Visual",
-    "version": "1.0.0",
-    "description": "",
-    "supportUrl": "",
-    "gitHubUrl": ""
+    "version": "1.0.0.0",
+    "description": "test",
+    "supportUrl": "https://test.com",
+    "gitHubUrl": "https://github.com/v-gchalamche/pbi_visual"
   },
-  "apiVersion": "2.6.0",
+  "apiVersion": "4.7.0",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "TEST",
+    "email": "test@microsoft.com"
   },
   "assets": {
     "icon": "assets/icon.png"
